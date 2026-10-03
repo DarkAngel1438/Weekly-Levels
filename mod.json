@@ -6,10 +6,10 @@
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"id": "darkangelgdyt.weekly-levels",
+	"id": "darkangelgmd.weekly-levels",
 	"name": "Weekly Levels",
 	"version": "v1.0.0",
-	"developer": "DarkAngelGDYT",
+	"developer": "DarkAngelGMD",
 	"description": "Replaces Featured by GDLite Featured.",
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
